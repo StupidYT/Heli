@@ -1,0 +1,27 @@
+Hallo,
+Hier ist die Anleitung wie ihr das Flugzeug in euern Server rein packt  
+1. Legen Sie den  "as332 " Ordner in [Spiel-Ordner]updateX64dlcpacks 
+
+2. Mit OpenIV, extrahieren [Spiel-Ordner]  updateupdate.rpfcommondlclist.xml und bearbeiten Sie dies mit Notepad + +. Fügen Sie folgenden Eintrag hinzu:
+		<Item> dlcpacks:as332  </Item>
+
+3. Jetzt sind Sie fertig, Sie brauchen einen Trainer mit  "spawn by name "-Funktion (Enhanced Native Trainer zum Beispiel), um den Fahrzeugtyp zu spaßen:
+
+ "as332 "
+
+Wenn ihr das nicht versteht ihr ein Video : https://www.youtube.com/watch?v=crhTopRvro4
+
+2. Mit OpenIV, extrahieren [Spiel-Ordner]  updateupdate.rpfcommondlclist.xml und bearbeiten Sie dies mit Notepad + +. Fügen Sie folgenden Eintrag hinzu:
+		<Item> dlcpacks:as332  </Item>
+
+3. Jetzt sind Sie fertig, Sie brauchen einen Trainer mit  "spawn by name "-Funktion (Enhanced Native Trainer zum Beispiel), um den Fahrzeugtyp zu spaßen:
+
+ "as332 "
+
+
+
+Wenn es Probleme gibt mich anschreiben 
+Discord : StupidYT
+
+Liebe Grüsse
+STUPIDYT
